@@ -4,7 +4,7 @@
 
 - 🔭 We currently working on **Mobile Apps**
 - 💬 Ask me about **Ideas**
-- 📫 How to reach me: **[Email-me]mailto:punx.adm@gmail.com**
+- 📫 How to reach me? **[Here](mailto:punx.adm@gmail.com)**
 - ⚡ Fun fact: **3 Crazy people, 1 Idea**
 - 🩸 **Living for an ideal**
 
