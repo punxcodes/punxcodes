@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hello punx ☠️
+
+#### Be bigger than things, be an idea :bulb:
+
+- 🔭 We currently working on **Mobile Apps**
+- 💬 Ask me about **Ideas**
+- 📫 How to reach me: **[Email-me]mailto:punx.adm@gmail.com**
+- ⚡ Fun fact: **3 Crazy people, 1 Idea**
+- 🩸 **Living for an ideal**
 
 <!--
 **punxcodes/punxcodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
